@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html >
+<head>
+<title>HELLO, World!</title>
+</head>
+<body>
+<h1>Wikitechy Paragraph</h1>
+
+  <p>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+-</p>ul>
+
+<p>let`s list plantes in order!</p>
+
+<ol>
+  <li><a href="https://en.wikipedia.org/wiki/mercury(planet)" target=" _ blank"><imag src="img/(name of the file.jpg)">Mercury</a<li>
+  <li><a href="https://en.wikipedia.org/wiki/venus(planet)" target="_blank "title="see the plant Venus">venus<a/li>   
+   <li<Earth</li>
+  </ul>
+    <li>Moon</li>
+</ul>
+<li>Mars</li>
+<ol>
+  <li>phobos</li>
+  <li>deimos</li>
+</ol>
+-</ol>
+    <p>let`s add a table!</p>
+    <table border="1">
+<tr>
+        <tr>Name</tr>
+      </tr>Year</tr>
+    </tr>Moons</tr>
+</tr>
+<tr>
+    <td>Mercury</td>
+    <td>88days</td>
+    <td>No moons</td>
+    </tr>
+-<table>
+   <p>&nbsp;</p>   
+   <p>&nbsp;</p>
+   <p>&nbsp;</p>
+  <p>&nbsp;</p>
+        
+_</body>
+-</html>
+
