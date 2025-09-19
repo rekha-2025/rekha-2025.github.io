@@ -1,48 +1,84 @@
 <!DOCTYPE html>
-<html >
+<html lang="en">
 <head>
-<title>HELLO, World!</title>
+  <meta charset="UTF-8" />
+  <title>Hello, world!</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="" />
+  <link rel="icon" href="favicon.png">
 </head>
 <body>
-<h1>HELLO, World!</h1>
-
-  <p>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
--</p>ul>
-
-<p>let`s list plantes in order!</p>
+  <h1>Hello, world!</h1>
+<h2>Hello, world!</h2>
+<h3>Hello, world!</h3>
+<h4>Hello, world!</h4>
+<h5>Hello, world!</h5>
+<h6>Hello, world!</h6>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec imperdiet sen vel massa gravida cursus. Quisque placerat faucibus molestie. Cras ut lectus id felis sodales porttitor. Duis tempus luctus tristique. Ut pretium sodales condimentum. Pellentesque eget orci condimentum, viverra odio nec, ullamcorper risus. Aliquam faucibus, tellus nec pretium iaculis, tortor turpis luctus ligula, in consectetur loren odio nec enim. Duis consequat metus et mi tristique, varius vestibulum ipsum auctor.</p>
 
 <ol>
-  <li><a href="https://en.wikipedia.org/wiki/mercury(planet)" target=" _ blank"><imag src="img/(name of the file.jpg)">Mercury</a<li>
-  <li><a href="https://en.wikipedia.org/wiki/venus(planet)" target="_blank "title="see the plant Venus">venus<a/li>   
-   <li<Earth</li>
-  </ul>
-    <li>Moon</li>
+<li><a href="https://www.google.com/search?sca_esv=ff65319911ef3232&sxsrf=AE3TifMMnncHs--eHxVVN2tXnQRZfoRhuQ:1758091742078 &q=sustainability+MAS&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIek8S7vrBbLxzFp-FFU20-OE3PEGJC4TeF7IMrU7DuGL-KNztj9haC6SD- 
+3yo8pJ1ZYVHIioPgVA54tE33C_ZP3gWcc1zYT8IHjwccuEHIqI5LNZgC2J1i6LaRsLT5PRvi1Ct9Ae47yheH0VnVCpQsvD9an7uUSQPeitR9AQvOLrrCfEbvg&sa=X&ved=2ahUKEwiIqpOOmt-
+PAxXgAhAIHRH9CQAQ0pQJegQIDBAB&biw=1536&bih=695&dpr=1.25" target=" _blank"><img src=
+"IMG/FullMoon2010.jpg" height="100" width="100">Mercury</a></Ii> 
+<Ii>Venus</li>
+<li>Earth</li> 
+<ul>
+<li>Moon</li>
 </ul>
 <li>Mars</li>
-<ol>
-  <li>phobos</li>
-  <li>deimos</li>
+<ul>
+<li>Phobos</li>
+<li>Deimos</li>
+</ul>
 </ol>
--</ol>
-    <p>let`s add a table!</p>
-    <table border="1">
+
+<table border="1">
 <tr>
-        <tr>Name</tr>
-      </tr>Year</tr>
-    </tr>Moons</tr>
+<th>Name</th>
+<th>Year</th>
+<th>Moons</th>
 </tr>
 <tr>
-    <td>Mercury</td>
-    <td>88days</td>
-    <td>No moons</td>
-    </tr>
--<table>
-   <p>&nbsp;</p>   
-   <p>&nbsp;</p>
-   <p>&nbsp;</p>
-  <p>&nbsp;</p>
-        
-_</body>
--</html>
+<td>Mercury</td>
+<td>88days</td>
+<td>No moons</td>
+</tr>
+<tr>
+<td>Mercury</td>
+<td>88days</td>
+<td>No moons</td>
+</tr>
+<li>v
+<li>Venus</li>
+<li>Earth</li>
+<ul>
+<li>Moon</li>
+</ul>
+<li>Mars</li>
+<ul>
+<li>Phobos</li>
+<li>Deimos</li>
+</ul>
+</ol>
+
+<table boarder="1">
+<tr>
+<th>Name</th>
+<th>Year</th>
+<th>Moons</th>
+</tr>
+<tr>
+<td>Mercury</td>
+<td>88 days</td>
+<td>No moons</td>
+</tr>
+<tr>
+<td>Mercury</td>
+<td>88 days</td>
+<td>No Moons</td>
+</tr>
+
+</body>
+</html>
 
