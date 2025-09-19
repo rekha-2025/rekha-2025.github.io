@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Planets Table Assignment</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Planets Table Assignment" />
+  <style>
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #333; padding: 8px; text-align: center; }
+    img { display: block; margin: auto; }
+  </style>
+</head>
+<body>
+  <h1>Planets of the Solar System</h1>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Year Length</th>
+      <th>Number of Moons</th>
+      <th>Distance from Sun (million km)</th>
+      <th>Image</th>
+    </tr>
+    <tr>
+      <td>Mercury</td>
+      <td>88 days</td>
+      <td>0</td>
+      <td>57.9</td>
+      <td><img src="img/mercury.jpg" width="100" height="100" alt="Mercury"></td>
+    </tr>
+    <tr>
+      <td>Venus</td>
+      <td>225 days</td>
+      <td>0</td>
+      <td>108.2</td>
+      <td><img src="img/venus.jpg" width="100" height="100" alt="Venus"></td>
+    </tr>
+    <tr>
+      <td>Earth</td>
+      <td>365 days</td>
+      <td>1</td>
+      <td>149.6</td>
+      <td><img src="img/earth.jpg" width="100" height="100" alt="Earth"></td>
+    </tr>
+    <tr>
+      <td>Mars</td>
+      <td>687 days</td>
+      <td>2</td>
+      <td>227.9</td>
+      <td><img src="img/mars.jpg" width="100" height="100" alt="Mars"></td>
+    </tr>
+    <tr>
+      <td>Jupiter</td>
+      <td>4,333 days</td>
+      <td>95</td>
+      <td>778.6</td>
+      <td><img src="img/jupiter.jpg" width="100" height="100" alt="Jupiter"></td>
+    </tr>
+    <tr>
+      <td>Saturn</td>
+      <td>10,759 days</td>
+      <td>146</td>
+      <td>1,433.5</td>
+      <td><img src="img/saturn.jpg" width="100" height="100" alt="Saturn"></td>
+    </tr>
+    <tr>
+      <td>Uranus</td>
+      <td>30,687 days</td>
+      <td>28</td>
+      <td>2,872.5</td>
+      <td><img src="img/uranus.jpg" width="100" height="100" alt="Uranus"></td>
+    </tr>
+    <tr>
+      <td>Neptune</td>
+      <td>60,190 days</td>
+      <td>16</td>
+      <td>4,495.1</td>
+      <td><img src="img/neptune.jpg" width="100" height="100" alt="Neptune"></td>
+    </tr>
+  </table>
+</body>
+</html>
