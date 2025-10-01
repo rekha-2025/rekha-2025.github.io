@@ -1,1 +1,22 @@
+body {
+    background: linear-gradient(to bottom, #62b2d4, #3B8EA5, #F5EE9E, #F49E4C, #e56e63)
+}
 
+h1{
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+    color: #13013b;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+table {
+    border: black;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}
