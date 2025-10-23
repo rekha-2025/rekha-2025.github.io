@@ -1,0 +1,109 @@
+/* General page settings */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  background-color: #fffaf0;
+  color: #333;
+}
+
+/* Header / Navbar */
+.navbar {
+  background-color: #6abd73;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn {
+  background-color: #f4a896;
+  padding: 8px 14px;
+  border-radius: 5px;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  background-color: #fff0f5;
+  padding: 80px 20px;
+}
+
+.hero h2 {
+  font-size: 2rem;
+}
+
+.hero p {
+  font-size: 1.1rem;
+}
+
+/* Shop Page */
+.shop {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.product-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.product {
+  background-color: white;
+  border-radius: 10px;
+  width: 240px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  padding: 15px;
+  transition: transform 0.2s ease;
+}
+
+.product:hover {
+  transform: scale(1.05);
+}
+
+.product img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.price {
+  font-weight: bold;
+  color: #2e7d32;
+}
+
+/* Footer */
+footer {
+  background-color: #6abd73;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+}
+
+/* Responsive (for phones) */
+@media (max-width: 768px) {
+  .product-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .product {
+    width: 90%;
+  }
+}
